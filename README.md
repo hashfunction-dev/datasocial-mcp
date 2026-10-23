@@ -65,7 +65,7 @@ Daily creator and video history started on 2026-09-26; sound history has 106 day
 ## Also
 
 - Plain SQL or plain-English search in the browser, no account: [datasocial.ai](https://datasocial.ai)
-- How the data is collected: [Scraping TikTok's mobile API at billions of records a day](https://datasocial.ai/writing/scraping-tiktoks-mobile-api)
+- How the data is collected: [Scraping TikTok's mobile API at billions of records a day](https://datasocial.ai/writing/scraping-mobile-api)
 - The full database without the 100-row limit, or the scraper code: [datasocial.ai/buy](https://datasocial.ai/buy)
 
 This repo holds documentation only; the server is hosted.
